@@ -8,7 +8,8 @@
  -  수정과 삭제도 분명 잘 작성한거같은데 또  Not Found 란다.
  
 ##문제해결
-  파일들을 W06폴더로 잘 이동시키고 성공적으로 페이지가 떴다.
+
+ -  파일들을 W06폴더로 잘 이동시키고 성공적으로 페이지가 떴다.
   
 ##회고
 
@@ -17,7 +18,7 @@
  -   해결하지 못한 수정과 삭제 문제도 기한내에 끝내지 못했지만 다시 해볼것이다.
  
 ##과제영상
-  https://www.youtube.com/watch?v=lCTtlW7OoTk
+ -  https://www.youtube.com/watch?v=lCTtlW7OoTk
 
   
   
