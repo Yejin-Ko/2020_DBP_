@@ -28,7 +28,8 @@ timestampdiff()를 이용하여 현재 날짜와 근무 시작 년수를 이용�
  employees, dept_manager, departments 테이블을 조합하였고
  각 부서별 담당자의 정보가  한번에 나오게 하여 찾기 편하게 출력하였다. 
 
-
+## 3. 동작 영상
+  +  https://youtu.be/us6U8U6DuFg
 
 
 
